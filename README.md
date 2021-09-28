@@ -1,4 +1,4 @@
-# Chad's build of dwm
+# Chad's build of dwmblocks
 Related to my builds of:
 - [dwm](https://github.com/CWilsonTSP/dwm)
 - [dwmblocks](https://github.com/CWilsonTSP/dwmblocks)
